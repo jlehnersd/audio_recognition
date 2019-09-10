@@ -1,0 +1,6 @@
+bark/bark01.wav
+bark/bark02.wav
+bark/bark03.wav
+door/door01.wav
+door/door02.wav
+door/door03.wav
